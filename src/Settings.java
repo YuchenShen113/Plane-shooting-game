@@ -9,7 +9,7 @@ public class Settings {
     private double planeSpeed = 1.5;
 
     // bullet
-    private double bulletSpeed = 1.5;
+    private double bulletSpeed = 2;
     private int bulletMaxNum = 4;
 
     // refresh
